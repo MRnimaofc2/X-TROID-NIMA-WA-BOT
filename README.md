@@ -36,8 +36,8 @@
 
 <h4> X-TROID NIMA DEPLOY කිරීමට </h4>
 	
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRnimaofc2/Test
-	)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-NIMA-X/X-TROID-NIMA-WA-BOT )
+	
 </div align="center">
 </p>
 	
