@@ -67,5 +67,7 @@
 #### Base bot
 
 #### Helpers
+<a href= https://github.com/MR-NIMA-X/X-TROID-NIMA-WA-BOT/blob/main/%F0%9F%90%BA%20X-TROID%20NIMA%20%F0%9F%90%BA>☼ HELPERS ☼ </a>
+
 
 #### more
